@@ -11,7 +11,7 @@ Luxury Cars
 - HTML
 - CSS
 - JavaScript
-В рамке курса переписан на Angular. 
+- В рамке курса  проект переписан на Angular. 
 
 ## Демо
 https://harryof.github.io/cars/
